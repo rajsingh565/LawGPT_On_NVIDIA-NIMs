@@ -7,7 +7,8 @@ LawGPT is a Streamlit-based legal assistant that leverages NVIDIA NIMs to provid
 LawGPT uses a large language model (LLM) hosted on NVIDIA NIMs to generate insightful legal responses. The app features a simple and intuitive interface where users can input legal questions and receive detailed answers.
 
 ## 📸 Screenshot
-![image_alt]()
+![image_alt](https://github.com/rajsingh565/LawGPT_On_NVIDIA-NIMs/blob/983acd00b45631ad474f713f55b4c0c555eb97ad/Screenshot%202025-09-15%20221841.png)
+
 
 ## ✨ Features
 - Streamlit-based user interface
