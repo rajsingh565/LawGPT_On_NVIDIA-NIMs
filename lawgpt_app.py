@@ -4,7 +4,7 @@ import os
 
 # Configuration for NVIDIA NIMs LLM
 # Replace with your actual API key, base URL, and model name
-API_KEY = "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"
+API_KEY = "Your API_KEY"
 BASE_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
 MODEL_NAME = "meta/llama-3.1-8b-instruct"
 
@@ -62,3 +62,4 @@ if st.button("Get Answer"):
         st.write(answer)
     else:
         st.error("Please enter a question.")
+
